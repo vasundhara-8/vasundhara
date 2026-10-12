@@ -1,0 +1,12 @@
+h1{
+    color:rgb(61, 240, 240);
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    text-decoration-color: rgb(155, 246, 216);
+    width: 200px;
+    background-color: white;
+    border: 2px solid rgb(251, 27, 117);
+    border-radius: 10px;
+
+}
